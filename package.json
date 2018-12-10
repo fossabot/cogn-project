@@ -1,0 +1,11 @@
+{
+  "name": "cogn-project",
+  "version": "1.0.0-alpha.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CognitiveLaunchpad/cogn-project.git"
+  },
+  "author": "Marina Karpukhina <marina.ks.developer@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
